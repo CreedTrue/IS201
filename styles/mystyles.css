@@ -1,0 +1,24 @@
+/* Creed Garner 
+Edited Dec 17,2021*/
+body {
+    background-image: url("../images/bg.png");
+}
+#mainNav {
+    background-color: #b75439;
+}
+.button-primary {
+    color: rgb(255, 255, 255);
+    background-color: #1c485b;
+    border-color: #1c485b;
+}
+.button-primary:hover {
+    color: #000;
+    background-color: #fabf5d;
+    border-color: #fabf5d;
+}
+.footer {
+    background-color: #0f1725;
+  }
+.article-backer {
+    background-color: #1c485b;
+}
